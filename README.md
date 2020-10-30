@@ -44,11 +44,11 @@
 😈 `pip install lolcat`
 
 😈 `git clone https://github.com/adistar007/Star.
-
 😈 `cd Star.`
 
 👾 `python2 Cloning.py`
 
+FB Account
 
-https://www.facebook.com/My.Name.is.star007
+www.facebook.com/My.Name.is.star007
 
