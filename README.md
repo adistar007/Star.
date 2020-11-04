@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/AdiStar-Star-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
-<img src="AdiStar.gif">
+<img src="IMG_20200406_192815 1.jpg">
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -12,7 +12,7 @@
 <a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03313394006-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<img src="Star5.gif">
+<img src="IMG_20200406_192815 1.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Adistar007"><img title="Author" src="https://img.shields.io/badge/Author-Adistar007-red.svg?style=for-the-badge&logo=github"></a>
