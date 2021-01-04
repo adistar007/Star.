@@ -18,10 +18,10 @@
 <a href="https://github.com/Adistar007"><img title="Author" src="https://img.shields.io/badge/Author-Adistar007-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/lovehacker404/followers"><img title="Followers" src="https://img.shields.io/github/followers/Adistar007?color=blue&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Adistar007/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Adistar007/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Adistar007/World?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Adistar007/followers"><img title="Followers" src="https://img.shields.io/github/followers/Adistar007?color=blue&style=flat-square"></a>
+<a href="https://github.com/Adistar007/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Adistar007/World?color=red&style=flat-square"></a>
+<a href="https://github.com/Adistar007/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Adistar007/World?color=red&style=flat-square"></a>
+<a href="https://github.com/Adistar007/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Adistar007/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 # Installation :
